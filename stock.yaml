@@ -1,0 +1,8 @@
+stocks:
+  - name: PEUP
+    country: france
+  - name: RENA
+    country: france
+etfs:
+  - name: Amundi MSCI World UCITS
+    country: france
